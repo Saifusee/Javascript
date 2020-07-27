@@ -1,0 +1,40 @@
+In all features salary status is excluded
+
+
+1. Create a pop up input field.
+  // create form.
+  //Add close button
+  //make popup visibility toggled
+    
+
+2. Create a Main page
+  //Search field and other options
+  //Main Page Data to submit
+
+3.Show Data
+  //Create Id to each content 
+  //show all data to ui
+
+4.Basic Details to Table
+  //Clear Input Fields
+  //Delete Button in Action in each row(not asking confirm)
+  //Sno calculation(pending)
+
+5.Main Page main features
+  //Edit button(work)
+
+6. Filters
+  //Search
+  //paid
+  //unpaid
+
+7. Status of Salary
+  //checkbox working
+  //checkbox updated on new entry
+  //checkbox updated on editing
+  //checkbox update directly on UI
+
+
+
+  
+
